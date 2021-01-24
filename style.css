@@ -74,6 +74,9 @@ div.mainbody {
   grid-area: mainbody;
   /* width: 30rem; */
   overflow-x: auto;
+  text-align: justify;
+  text-justify: inter-word;
+  border-top: 0%;
   /* mainbody width is fixed */
   /* justify-self: center; */
   /* and always centered in grid area */
